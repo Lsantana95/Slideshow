@@ -34,6 +34,10 @@ Projeto de um Slideshow desenvolvido em HTML5, CSS3 e JavaScript, onde o objetiv
 
 <img src="./projeto_img/Imaget_6.png">
 
+# Link do projeto:
+
+https://lsantana95.github.io/Slideshow/ 
+
 # Autor:
 
 Onde me encontrar?
